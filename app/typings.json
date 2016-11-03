@@ -1,0 +1,10 @@
+{
+  "name": "kalliopemediaweb",
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160925001530"
+  },
+  "globalDependencies": {
+    "nconf": "registry:dt/nconf#0.0.0+20160724073144",
+    "node": "registry:dt/node#6.0.0+20161019125345"
+  }
+}
