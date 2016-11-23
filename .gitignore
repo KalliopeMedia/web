@@ -41,3 +41,4 @@ jspm_packages
 webconfig.json
 
 typings/
+*.js.map
