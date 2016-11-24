@@ -5,7 +5,7 @@ echo "building..."
 echo "deploying..."
 
 mkdir $1
-cp dev/*.* $1
+cp app/*.* $1
 cp -r app/node_modules/ $1/node_modules/
 cp -r app/www/ $1/www/
 cp -r app/server/ $1/server/
