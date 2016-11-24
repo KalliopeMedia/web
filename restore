@@ -1,0 +1,5 @@
+cd app
+typings install
+
+cd www
+typings install
